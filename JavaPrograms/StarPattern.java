@@ -1,4 +1,4 @@
-public class StarPattern1 {
+public class StarPattern {
     public static void main(String args[])
     {
         int i , j;
