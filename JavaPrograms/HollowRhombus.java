@@ -1,6 +1,6 @@
 public class HollowRhombus {
     public static void main(String[] args) {
-        int i,j,k;
+        int i,j;
         int row=5;
         for(i=1;i<=row;i++)
         {
